@@ -1,0 +1,426 @@
+
+body{
+    background-color: #f3efeb;
+    font-family: 'Product Sans', sans-serif;
+                                                
+}
+.ico{
+    padding-top: 15px;
+    margin-left: 30px;
+}
+.one{
+    width: 70px;
+    height: 600px;
+    float: left;
+
+}
+
+.mu{
+    margin-top: 160px;
+    margin-bottom: 1px;
+    border-radius: 20px;
+    margin-left: 15px;
+    width: 58px;
+    align-items: center;
+    border: none;
+    background-color: #f4e561;
+}
+.mu:focus{
+    outline: none;
+}
+.me{
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 15px;
+    width: 58px;
+    align-items: center;
+    border: none;
+}
+.me:focus{
+    outline: none;
+}
+.fun{
+    
+    margin-left: 26px;
+    
+}
+.f1{
+    margin-left: 13px;
+}
+.f2{
+    margin-left: 13px;
+}
+.fur{
+    margin-left: 28px;
+}
+.two{
+    width: 1400px;
+    height: 600px;
+    float:left;
+    margin-top: 20px;
+}
+.ak{
+    width: 1240px;
+    height: 40px;
+    background-color: #eae3bd;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.fu{
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: left;
+    
+}
+.search{
+    width: 1140px;
+    height: 25px;
+    padding-top: 10px;
+    position: relative;
+    display:inline-block;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    background-color: #eae3bd;
+    font-family: 'Product Sans', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.box1{
+    width: 590px;
+    height: 250px;
+    float: left;
+    background-color: pink;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.box2{
+    width: 250px;
+    height: 250px;
+    float: left;
+    background-color:#f4e561;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.box3{
+    width: 250px;
+    height: 250px;
+    float: left;
+    background-color:#c2ecd3;
+    margin-left: 8px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.box4{
+    width: 250px;
+    height: 250px;
+    float: left;
+    background-color:#1c1b1f;
+    margin-left: 8px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.con3{
+    margin-top: 3px;
+    margin-left: 30px;
+    width: 590px;
+    height: 100px;
+    float: left;
+    border-radius: 38px;
+    background-color: #fffbff;
+}
+.con2{
+    width: 590px;
+    height: 275px;
+    float: left;
+    background-color: #fffbff;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.con4{
+    width: 768px;
+    height: 385px;
+    margin-left: 10px;
+    margin-top: 3px;
+    border-radius: 20px;
+    float: right;
+    background-color: #fffbff;
+
+}
+.but{
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 28px;
+    padding-top: 5px;
+    background-color: #eae3bd;
+    outline: none;
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.box1{
+    background-image: url("human.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.fut{
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+.fut1{
+    padding-left: 20px;
+    line-height: 30px;
+}
+.fum{
+    padding-left: 8px;
+}
+.gig{
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: white;
+    border: none;
+    outline: none;
+    margin-left: 20px;
+    margin-top: 65px;
+    font-weight: bold;
+}
+.sit{
+    margin-left: 20px;
+    line-height: 50px;
+}
+.sat{
+    margin-left: 20px;
+    line-height: 50px;
+    color: white;
+}
+.plus{
+    float: right;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+.pat{
+    margin-left: 20px;
+    float: left;
+    margin-top: 40px;
+    margin-right: 20px;
+    font-size: 16px;
+}
+.put{
+    width: 300px;
+    height: 80px;
+    margin-top: 10px;
+    float: left;
+    background-color: #eae3bd;
+    border-radius: 20px;
+}
+.pit{
+    width: 150.9px;
+    height: 80px;
+    margin-top: 10px;
+    float: left;
+    background-color: #eae3bd;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.jcb{
+    float: left;
+}
+.jc{
+    width: 150px;
+    height: 80px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 15px;
+}
+.for{
+    margin-top: 10px;
+    
+}
+.jc1{
+    width: 140px;
+    height: 80px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 15px;
+}
+.aksh{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.m1{
+    width: 360px;
+    height: 70px;
+    float: left;
+    background-color: #eae3bd;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+.m2{
+    width: 360px;
+    height: 70px;
+    float: left;
+    background-color: #eae3bd;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+.ro{
+    float: right;
+    margin-right: 25px;
+}
+.smile{
+    margin-left: 15px;
+    margin-top: 10px;
+    float: left;
+}
+.smily{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.vin{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.ban{
+    letter-spacing: 1px;
+    color: grey;
+}
+.call{
+    float: right;
+    margin-right: 15px;
+    margin-top: 20px;
+    
+}
+.cal{
+    width: 35px;
+    height: 35px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border: none;
+    outline: none;
+    padding-top: 5px;
+}
+.ram{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.all{
+    color: grey;
+    letter-spacing: 1px;
+}
+.pic{
+    float: right;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-right: 20px;
+    position: relative;
+    border-width: 0px 30px 30px 100px;
+}
+
+
+.theo{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.test{
+    font-size: 17px;
+
+}
+.ram{
+    margin-top: px;
+}
+.smilt{
+    margin-top: 10px;
+    float: left;
+}
+.on{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+}
+.dot{
+    height: 8px;
+    width: 8px;
+    cursor: pointer;
+    background-color: rgb(196, 219, 196);
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    
+
+}
+.dot1{
+    height: 8px;
+    width: 8px;
+    cursor: pointer;
+    background-color: rgb(134, 225, 134);
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    margin-left: 2px;
+
+}
+.dit{
+    margin-top: 318px;
+    
+}
+.smil{
+    margin-top: 5px;
+    float: right;
+    margin-right: 5px;
+}
+.smili{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-right: px;
+}
+.mark{
+    margin-left: 5px;
+}
+.dot2{
+    height: 8px;
+    width: 8px;
+    cursor: pointer;
+    background-color: rgb(196, 219, 196);
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    margin-left: 2px;
+}
+.dot3{
+    height: 8px;
+    width: 8px;
+    cursor: pointer;
+    background-color: rgb(134, 225, 134);
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    padding-left: 0px;
+    margin-left: 290px;
+}
+::placeholder{
+    align-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: grey;
+}

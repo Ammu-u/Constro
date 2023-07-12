@@ -1,0 +1,111 @@
+body{
+    font-family: 'Product Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #f3efeb;
+}
+.gem{
+    width: 680px;
+    height: 400px;
+    background-color: #f3efeb;
+    padding-top: 300px;
+    padding-left: 50px;
+    font-stretch: ultra-expanded;
+    float: left;
+}
+
+.c{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.o{
+    width: 80px;
+    height: 80px;
+    border-radius: 110px;
+    background-color: #f4e561;
+    float: left;
+    margin-top: 65px;
+    font-stretch: ultra-expanded;
+}
+.n{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.s{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.t{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.r{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.oo{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.p{
+    font-weight: bolder;
+    font-size: 150px;
+    float: left;
+    font-stretch: ultra-expanded;
+}
+.hi{
+    float: left;
+    margin-top: 100px;
+}
+.con{
+    width: 750px;
+    height: 200px;
+    background-color: #eae3bd;
+    border-radius: 25px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 0px;
+    padding-right: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.cont{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 25px;
+    float: left;
+    font-weight:500;
+    font-stretch: ultra-expanded;
+}
+.ico{
+    float: right;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+.pin{
+    fill: #f3efeb;
+    margin-left: 180px;
+}
+.ssss{
+    float: left;
+    margin-top: 100px
+}
+.cons{
+
+    width: 750px;
+    height: 300px;
+    border-radius: 25px;
+
+}

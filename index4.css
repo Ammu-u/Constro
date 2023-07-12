@@ -1,0 +1,474 @@
+
+body{
+    background-color: #f3efeb;
+    font-family: 'Product Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 20px;
+                                                
+}
+.ico{
+    padding-top: 15px;
+    margin-left: 30px;
+}
+.one{
+    width: 70px;
+    height: 600px;
+    float: left;
+}
+.mu{
+    margin-top: 160px;
+    margin-bottom: 1px;
+    border-radius: 20px;
+    margin-left: 15px;
+    width: 58px;
+    align-items: center;
+    border: none;
+}
+.mu:focus{
+    outline: none;
+}
+.mi{
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 15px;
+    width: 58px;
+    align-items: center;
+    border: none;
+    background-color: #f4e561;
+}
+.me{
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 15px;
+    width: 58px;
+    align-items: center;
+    border: none;
+}
+.me:focus{
+    outline: none;
+}
+.fun{
+    
+    margin-left: 26px;
+    
+}
+.f1{
+    margin-left: 13px;
+}
+.f2{
+    margin-left: 13px;
+}
+.fur{
+    margin-left: 28px;
+}
+.one{
+    position: fixed;
+}
+.tin{
+    height: 140px;
+    width: 1450px;
+    background-color: #f3efeb;
+    display: flex;
+    position: fixed;
+    position: -webkit-sticky;
+    left: 110px;
+    margin-top: 0px;
+}
+
+.ak{
+    width: 1240px;
+    height: 40px;
+    background-color: #eae3bd;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+    position: fixed;
+}
+.fu{
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: left;
+    
+}
+.search{
+    width: 1140px;
+    height: 25px;
+    padding-top: 10px;
+    position: relative;
+    display:inline-block;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    background-color: #eae3bd;
+    font-family: 'Product Sans', sans-serif;
+    letter-spacing: 0.5px;
+}
+.smil{
+    margin-top: 5px;
+    float: right;
+    margin-right: 5px;
+}
+.smili{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-right: px;
+}
+.not{
+    position: fixed;
+    left: 1395px;
+    margin-top: 24px;
+}
+.but{
+    position: fixed;
+    left: 1440px;
+    margin-top: 20px;
+    width: 35px;
+    height: 35px;
+    padding-top: 5px;
+    background-color: #eae3bd;
+    outline: none;
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.b1{
+    float: left;
+    width: 70px;
+    height: 40px;
+    margin-left: 30px;
+    background-color: aquamarine;
+    padding-top: 16px;
+    padding-left: 20px;
+    border-radius: 25px;
+}
+.b2{
+    float: left;
+    width: 100px;
+    height: 40px;
+    margin-left: 5px;
+    background-color: white;
+    padding-top: 16px;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+.b3{
+    float: left;
+    width: 90px;
+    height: 40px;
+    margin-left: 5px;
+    background-color: white;
+    padding-top: 16px;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+.b4{
+    float: left;
+    width: 150px;
+    height: 56px;
+    margin-left: 175px;
+    background-color: white;
+    padding-left: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+.b5{
+    float: left;
+    
+    width: 381px;
+    height: 56px;
+    background-color:#f4e561;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+.b6{
+    float: left;
+    
+    width: 381px;
+    height: 56px;
+    background-color:black;
+    border-radius: 30px;
+    margin-left: 5px;
+    color: white;
+}
+.line{
+    position: fixed;
+    display: flex;
+    top: 80px;
+
+}
+.veri{
+    float: left;
+}
+.ver{
+    margin-left: 8px;
+    float:left;
+    margin-right:5px;
+}
+.two1{
+    width: 80px;
+    height: 35px;
+    float: left;
+    background-color: rgb(201, 199, 199);
+    padding-top: 2px;
+    margin-left: 10px;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.verifi{
+    margin-top: 16px;
+    float: left;
+}
+.all{
+    float: left;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+
+}
+.verif{
+    float: left;
+    margin-top: 5px;
+}
+.post{
+    margin-top: 16px;
+    margin-left: 20px;
+    float: left;
+}
+.shap{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.ansh2{
+    width: 763px;
+    height: 590px;
+    float: right;
+    background-color: #fffbff;
+    border-radius: 20px;
+    margin-right: 10px;
+    position: fixed;
+    left: 712px;
+    top: 148px;
+}
+.smile{
+    margin-left: 15px;
+    margin-top: 10px;
+    float: left;
+}
+.smily{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.vin{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.ban{
+    letter-spacing: 1px;
+    color: grey;
+}
+.char{
+    float: left;
+    margin-top: 18px;
+    margin-left:455px;
+}
+.round{
+    margin-top: 18px;
+    border-radius: 50px;
+    width: 40px;
+    height: 35px;
+    padding-right: 8px;
+    border: none;
+    outline: none;
+}
+.track{
+    width: 450px;
+    height: 200px;
+    margin-top:20px;
+    margin-left: 20px;
+    border-radius: 25px;
+}
+.trac{
+    width: 283px;
+    height: 200px;
+    margin-left: 10px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.cont{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.fry{
+    float: left;
+    margin-left: 20px;
+}
+.fri{
+    float: right;
+    width: 100px;
+    height: 35px;
+    background-color: #f3efeb;
+    border-radius: 25px;
+    margin-left: 330px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.trend{
+    float: left;
+    color: grey;
+    line-height: 30px;
+}
+.three{
+    margin-left: 20px;
+}
+.four{
+    margin-left: 20px;
+}
+.six{
+    margin-left: 20px;
+    color: grey;
+}
+.str{
+    line-height: 20px;
+}
+.port1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.pug{
+    margin-left: 20px;
+    color: grey;
+    line-height: 25px;
+    margin-right: 20px;
+}
+.full{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #eae3bd;
+    float: left;
+}
+.connect{
+    width: 680px;
+    height: 40px;
+    border-radius: 15px;
+    float: left;
+    background-color: aquamarine;
+    margin-left: 10px;
+}
+.ch{
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.tip{
+    margin-left: 530px;
+}
+.ansh1{
+    width: 547px;
+    height: 140px;
+    background-color:#f3efeb;
+    position:static;
+    margin-left: 110px; 
+    border-radius: 20px;
+}
+.seven{
+    width: 277.5px;
+    height: 260px;
+    background-color: #eae3bd;
+    margin-left: 120px;
+    margin-top: 8px;
+    border-radius: 20px;
+    float: left;
+}
+.eight{
+    width: 277.5px;
+    height: 260px;
+    background-color:#fffbff;
+    margin-left: 5px;
+    margin-top: 8px;
+    border-radius: 20px;
+    float: left;
+}
+.nine{
+    width: 277.5px;
+    height: 260px;
+    background-color:#fffbff;
+    margin-left: 120px;
+    margin-top: 5px;
+    border-radius: 20px;
+    float: left;
+}
+.ten{
+    width: 277.5px;
+    height: 260px;
+    background-color:#fffbff;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 20px;
+    float: left;
+}
+.lid{
+    width: 277.5px;
+    height: 260px;
+    background-color:#fffbff;
+    margin-left: 120px;
+    margin-top: 2px;
+    border-radius: 20px;
+    float: left;
+}
+.len{
+    width: 277.5px;
+    height: 260px;
+    background-color:#fffbff;
+    margin-left: 5px;
+    margin-top: 2px;
+    border-radius: 20px;
+    float: left;
+}
+.dip{
+    width: 257px;
+    height: 150px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.gin{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.din{
+    margin-left: 10px;
+    color: grey;
+}
+.konnect{
+    width: 257px;
+    height: 25px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-top: 7px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.sip{
+    margin-left: 120px;
+}
+.tonnect{
+    width: 257px;
+    height: 25px;
+    background-color: #f3efeb;
+    border-radius: 20px;
+    margin-top: 7px;
+    margin-left: 10px;
+    padding-top: 5px;
+}

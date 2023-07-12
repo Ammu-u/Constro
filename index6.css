@@ -1,0 +1,364 @@
+body{
+    background-color: #f3efeb;
+    font-family: 'Product Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 20px;
+}
+.round{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: #fffbff;
+    margin-left: 1400px;
+    margin-top: 20px;
+}
+.arr{
+    padding-top: 25px;
+    float: left;
+    margin-left: 10px;
+}
+.pro{
+    margin-left: 20px;
+    position: fixed;
+    top: 30px;
+}
+.fit{
+    margin-bottom: 10px;
+}
+.ansh1{
+    width: 705px;
+    height: 280px;
+    background-color: #fffbff;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+.ansh2{
+    width: 705px;
+    height: 145px;
+    background-color: #fffbff;
+    margin-left: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.ansh3{
+    width: 705px;
+    height: 225px;
+    background-color: #fffbff;
+    margin-left: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.ansh4{
+    width: 755px;
+    height: 670px;
+    background-color: #fffbff;
+    margin-left: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+    position: fixed;
+    left: 735px;
+    top: 60px;
+}
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+}
+.fin{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.tin{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.kas{
+    font-size: 20px;
+}
+.pen{
+    width: 30px;
+    height: 50px;
+    background-color: rgb(222, 220, 220);
+    float: right;
+    margin-right: 20px;
+    padding-top: 22px;
+    padding-left: 8px;
+    border-radius: 25px;
+}
+.ss{
+    padding-left: 20px;
+    margin-left: 20px;
+    padding-top: 12px;
+}
+.abt{
+    margin-left: 20px;
+}
+p{
+    line-height: 25px;
+    word-spacing: 3px;
+}
+.sat{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.sit{
+    width: 665px;
+    height: 50px;
+    background-color: #eae3bd;
+    border-radius: 25px;
+}
+.kit{
+    height: 20px;
+}
+.cat{
+    padding-left: 20px;
+    padding-top: 15px;
+    font-weight: bold;
+    float: left;
+}
+.cit{
+    padding-top: 15px;
+    float: left;
+    padding-left: 22px;
+}
+.change{
+    width: 80px;
+    height: 40px;
+    background-color: #f3efeb;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-radius: 25px;
+}
+.cin{
+    margin-top: 9px;
+    margin-left: 13px;
+}
+.san{
+    padding-top: 5px;
+    margin-left: 20px;
+}
+.sin{
+    width: 665px;
+    height: 50px;
+    background-color: #eae3bd;
+    border-radius: 25px;
+}
+.he{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.chin{
+    width: 665px;
+    height: 70px;
+    background-color: #eae3bd;
+    margin-left: 20px;
+    border-radius: 25px;
+}
+.ching{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 13px;
+    margin-top: 10px;
+    float: left;
+    margin-right: 10px;
+}
+.chan{
+    float: left;
+    margin-top: 15px;
+    font-size: 15px;
+}
+.dora{
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    margin-right: 20px;
+    margin-top: 15px;
+    background-color: #f3efeb;
+}
+.mon{
+    margin-top: 10px;
+    margin-left: 11px;
+}
+.king{
+    color: grey;
+    font-size: 15px;
+}
+.chi{
+    width: 665px;
+    height: 70px;
+    background-color: #eae3bd;
+    margin-left: 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.act{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.aksh{
+    width: 715px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 25px;
+    background-color: #eae3bd;
+    margin-top: 10px;
+}
+.search{
+    display: inline-block;
+    border: none;
+    outline: none;
+    background-color: #eae3bd;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-family: 'Product Sans', sans-serif;
+    letter-spacing: 0.5px;
+}
+.ding{
+    float: left;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.ting{
+    width: 715px;
+    height: 100px;
+    background-color: rgb(228, 226, 226);
+    margin-left: 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.john{
+    margin-left: 15px;
+    padding-top: 15px;
+    font-weight: bold;
+    
+}
+.uppal{
+    color: grey;
+    font-weight: lighter;
+    padding-top: 8px;
+    margin-left: 15px;
+    font-size: 14px;
+}
+.three{
+    padding-top: 10px;
+    margin-left: 15px;
+}
+.dim{
+    float: right;
+    margin-right: 450px;
+    font-size: 10px;
+    font-weight: 200;
+    width: 40px;
+    height: 16px;
+    background-color: rgb(182, 244, 223);
+    border-radius: 10px;
+}
+.kim{
+    color: rgb(0, 200, 255);
+    margin-left: 5px;
+    margin-top: 1px;
+}
+.nim{
+    float: right;
+    margin-right: 415px;
+    font-size: 10px;
+    font-weight: 200;
+    width: 50px;
+    height: 16px;
+    background-color: rgb(251, 214, 200);
+    border-radius: 10px;
+}
+.nam{
+    color: rgb(255, 60, 0);
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.dip{
+    float: right;
+    margin-right: 550px;
+    font-size: 10px;
+    font-weight: 200;
+    width: 40px;
+    height: 16px;
+    background-color: rgb(182, 244, 223);
+    border-radius: 10px;
+}
+.kip{
+    color: rgb(0, 200, 255);
+    margin-left: 5px;
+    margin-top: 1px;
+}
+.pip{
+    float: right;
+    margin-right: 420px;
+    font-size: 10px;
+    font-weight: 200;
+    width: 40px;
+    height: 16px;
+    background-color: rgb(182, 244, 223);
+    border-radius: 10px;
+}
+.fip{
+    color: rgb(0, 200, 255);
+    margin-left: 5px;
+    margin-top: 1px;
+}
+.fik{
+    float: left;
+    position: fixed;
+    fill: #fffbff;
+    left: 510px;
+    overflow:hidden;
+    top: 585px;
+}
+.tik{
+    float: left;
+    position: fixed;
+    fill: #fffbff;
+    left: 510px;
+    overflow:hidden;
+    top: 562px;
+}
+.cik{
+    float: left;
+    position: fixed;
+    fill: #fffbff;
+    left: 1340px;
+    overflow:hidden;
+    top: 162px;
+}
+.mik{
+    float: left;
+    position: fixed;
+    fill: #fffbff;
+    left: 1340px;
+    overflow:hidden;
+    top: 457px;
+}
+.nik{
+    float: left;
+    position: fixed;
+    fill: #fffbff;
+    left: 1340px;
+    overflow:hidden;
+    top: 319px;
+}
+.zik{
+    float: left;
+    position: fixed;
+    fill: #fffbff;
+    left: 1340px;
+    overflow:hidden;
+    top: 573px;
+}
